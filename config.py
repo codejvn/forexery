@@ -21,16 +21,15 @@ INITIAL_BALANCE = 10000
 INITIAL_USD_RATIO = 0.5  # Start with 50% USD
 INITIAL_JPY_RATIO = 0.5  # Start with 50% JPY
 TRANSACTION_COST = 0.0001  # 1 pip spread (0.01% per trade)
-TRADING_PENALTY = 0.5  # Small penalty per trade to reduce from 247 → 100 trades
 
 # Episode structure
 DAYS_PER_QUARTER = 63  # Trading days in a quarter (~252 trading days/year ÷ 4)
 EPISODE_LENGTH = DAYS_PER_QUARTER  # One quarter per episode
 
 # Reward structure
-DAILY_REWARD_WEIGHT = 0.05  # Increased from 0.01 for stronger immediate feedback
+DAILY_REWARD_WEIGHT = 0.01  # Small weight for daily P&L
 QUARTERLY_REWARD_WEIGHT = 100.0  # Large weight for quarterly performance
-SHARPE_BONUS_WEIGHT = 15.0  # Increased from 10.0 to emphasize risk-adjusted returns
+SHARPE_BONUS_WEIGHT = 10.0  # Bonus for risk-adjusted returns
 
 # Data splits
 TRAIN_SPLIT = 0.7
@@ -39,7 +38,7 @@ TEST_SPLIT = 0.15
 
 # RL hyperparameters
 LEARNING_RATE = 0.0003
-TRAINING_TIMESTEPS = 200000  # Doubled from 100k for better learning
+TRAINING_TIMESTEPS = 150000  # 50% increase for more learning
 N_STEPS = 2048
 BATCH_SIZE = 64
 GAMMA = 0.99  # Discount factor for future rewards
