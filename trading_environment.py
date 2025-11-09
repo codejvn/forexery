@@ -13,7 +13,7 @@ from config import (
     INITIAL_BALANCE, INITIAL_USD_RATIO, INITIAL_JPY_RATIO,
     TRANSACTION_COST, EPISODE_LENGTH, DAILY_REWARD_WEIGHT,
     QUARTERLY_REWARD_WEIGHT, SHARPE_BONUS_WEIGHT,
-    ACTION_LOW, ACTION_HIGH
+    ACTION_LOW, ACTION_HIGH, TRADING_PENALTY
 )
 
 class JPYUSDTradingEnv(gym.Env):
@@ -231,6 +231,10 @@ class JPYUSDTradingEnv(gym.Env):
 
         # Calculate reward (daily component)
         reward = daily_pnl * DAILY_REWARD_WEIGHT
+
+        # Apply trading penalty if agent traded (to discourage overtrading)
+        if abs(action) > 0.01:  # If agent made a trade
+            reward -= TRADING_PENALTY
 
         # Check if episode is done
         done = self.current_step >= self.episode_length
