@@ -4,14 +4,14 @@ PERFORMANCE REPORT
 
 RL AGENT PERFORMANCE
 ----------------------------------------------------------------------
-Total Return:          -6.13%
-Mean Quarterly Return: -1.53%
-Std Quarterly Return:  3.04%
-Mean Sharpe Ratio:     -1.24
-Max Drawdown:          -4.94%
-Win Rate:              25.0%
-Total Trades:          252
-Final Value:           $5040.59
+Total Return:          +0.84%
+Mean Quarterly Return: +0.21%
+Std Quarterly Return:  0.26%
+Mean Sharpe Ratio:     1.67
+Max Drawdown:          -0.14%
+Win Rate:              100.0%
+Total Trades:          247
+Final Value:           $5051.22
 
 BUY-AND-HOLD BASELINE
 ----------------------------------------------------------------------
@@ -22,5 +22,5 @@ Mean Sharpe Ratio:     -0.61
 
 COMPARISON (Agent vs Baseline)
 ----------------------------------------------------------------------
-Return Difference:     -6.11%
-Sharpe Improvement:    -0.63
+Return Difference:     +0.86%
+Sharpe Improvement:    +2.29

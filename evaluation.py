@@ -9,6 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from stable_baselines3 import PPO
 import os
+os.environ['KMP_DUPLICATE_LIB_OK']='True'  # For Mac M1 compatibility
 
 from trading_environment import JPYUSDTradingEnv
 from config import MODEL_SAVE_PATH, INITIAL_BALANCE, INITIAL_USD_RATIO, EPISODE_LENGTH
