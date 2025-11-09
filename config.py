@@ -4,28 +4,48 @@ Stores all hyperparameters and file paths in one place
 """
 
 # File paths
-NEWS_ARTICLES_PATH = 'news_articles.csv'  # Your news data
-CURRENCY_DATA_PATH = 'currency_data.csv'  # Your forex data
+USA_NEWS_PATH = 'news_articles_usa.csv'
+JAPAN_NEWS_PATH = 'news_articles_japan.csv'
+CURRENCY_DATA_PATH = 'all_currencies_with_indicators.csv'
 
 # Output paths
-SENTIMENT_OUTPUT = 'news_with_sentiment.csv'
-NORMALIZED_CURRENCY_OUTPUT = 'currency_normalized.csv'
-MERGED_DATA_OUTPUT = 'training_data.csv'
+MERGED_DATA_OUTPUT = 'merged_trading_data.csv'
 MODEL_SAVE_PATH = 'models/jpyusd_sentiment_agent'
 
 # Currency pairs in your data
 TARGET_PAIR = 'USDJPY'  # The pair you're trading
-REFERENCE_PAIRS = ['EURUSD', 'GBPUSD', 'AUDUSD', 'USDCAD', 'USDCHF']  # For normalization
+REFERENCE_PAIRS = ['EURUSD', 'GBPUSD', 'AUDUSD']  # For context
 
-# Training parameters
+# Portfolio parameters
 INITIAL_BALANCE = 10000
-TRANSACTION_COST = 0.0001  # 1 pip spread
+INITIAL_USD_RATIO = 0.5  # Start with 50% USD
+INITIAL_JPY_RATIO = 0.5  # Start with 50% JPY
+TRANSACTION_COST = 0.0001  # 1 pip spread (0.01% per trade)
+
+# Episode structure
+DAYS_PER_QUARTER = 63  # Trading days in a quarter (~252 trading days/year ÷ 4)
+EPISODE_LENGTH = DAYS_PER_QUARTER  # One quarter per episode
+
+# Reward structure
+DAILY_REWARD_WEIGHT = 0.01  # Small weight for daily P&L
+QUARTERLY_REWARD_WEIGHT = 100.0  # Large weight for quarterly performance
+SHARPE_BONUS_WEIGHT = 10.0  # Bonus for risk-adjusted returns
+
+# Data splits
 TRAIN_SPLIT = 0.7
 VAL_SPLIT = 0.15
 TEST_SPLIT = 0.15
 
 # RL hyperparameters
 LEARNING_RATE = 0.0003
-TRAINING_TIMESTEPS = 50000
+TRAINING_TIMESTEPS = 100000  # Increased for continuous action space
 N_STEPS = 2048
 BATCH_SIZE = 64
+GAMMA = 0.99  # Discount factor for future rewards
+GAE_LAMBDA = 0.95  # Generalized Advantage Estimation
+CLIP_RANGE = 0.2  # PPO clipping parameter
+ENT_COEF = 0.01  # Entropy coefficient for exploration
+
+# Action space bounds
+ACTION_LOW = -1.0  # Maximum sell proportion
+ACTION_HIGH = 1.0  # Maximum buy proportion

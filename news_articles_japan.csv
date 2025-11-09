@@ -1045,3 +1045,915 @@ Date,Headline,Sentiment
 2022-07-05,Rising Consumer Prices Key Issue in Election Campaign,Negative
 2022-07-04,COVID-19 Pandemic Response Remains Campaign Topic,Neutral
 2022-07-01,July Begins with Focus on Upcoming Parliamentary Elections,Neutral
+2022-06-30,Stock Markets End First Half with Modest Losses,Negative
+2022-06-29,Consumer Prices Rise at Fastest Pace in Decades,Negative
+2022-06-28,BOJ Maintains Ultra-Loose Monetary Policy,Neutral
+2022-06-27,Yen Weakens to 24-Year Low Against Dollar,Negative
+2022-06-26,Manufacturing Activity Slows on Supply Constraints,Negative
+2022-06-25,Retail Sales Growth Moderates in May,Neutral
+2022-06-24,Inflation Concerns Rise Among Consumers and Businesses,Negative
+2022-06-23,Government Announces Cost of Living Support Measures,Positive
+2022-06-22,BOJ Governor Kuroda Defends Yield Curve Control Policy,Neutral
+2022-06-21,Export Growth Slows on China Lockdowns,Negative
+2022-06-20,Stock Markets Decline on Global Recession Fears,Negative
+2022-06-19,Industrial Production Falls for Second Month,Negative
+2022-06-18,Wage Growth Remains Weak Despite Rising Inflation,Negative
+2022-06-17,Tokyo CPI Rises 2.1 Percent in May,Negative
+2022-06-16,BOJ Holds Policy Rate at Minus 0.1 Percent,Neutral
+2022-06-15,Business Sentiment Weakens on Cost Pressures,Negative
+2022-06-14,Household Spending Declines on Inflation Impact,Negative
+2022-06-13,Energy Import Costs Surge on Weak Yen,Negative
+2022-06-12,Trade Deficit Widens to Record High,Negative
+2022-06-11,Service Sector Activity Shows Signs of Recovery,Positive
+2022-06-10,Economy Watchers Survey Shows Cautious Outlook,Neutral
+2022-06-09,Current Account Surplus Narrows Significantly,Negative
+2022-06-08,Machinery Orders Decline More Than Expected,Negative
+2022-06-07,Omicron Subvariant Cases Begin to Rise,Negative
+2022-06-06,Government Debt Continues to Rise,Negative
+2022-06-05,Labor Market Remains Tight Despite Weak Growth,Neutral
+2022-06-04,Small Business Confidence Deteriorates,Negative
+2022-06-03,Housing Starts Decline in April,Negative
+2022-06-02,Vehicle Production Disrupted by Supply Issues,Negative
+2022-06-01,New Month Begins with Economic Uncertainty,Negative
+2022-05-31,Stock Markets End May with Losses,Negative
+2022-05-30,Consumer Confidence Remains Weak,Negative
+2022-05-29,Real GDP Contracts 1.0 Percent in Q1,Negative
+2022-05-28,Private Consumption Falls on Omicron Impact,Negative
+2022-05-27,Semiconductor Shortage Continues to Impact Industry,Negative
+2022-05-26,Retail Sales Show Modest Growth,Neutral
+2022-05-25,Tokyo Core CPI Rises 1.9 Percent,Negative
+2022-05-24,BOJ Minutes Show Concern Over Weak Yen,Negative
+2022-05-23,Service Sector Recovery Slows,Negative
+2022-05-22,Manufacturing PMI Shows Contraction,Negative
+2022-05-21,Corporate Earnings Show Mixed Results,Neutral
+2022-05-20,Imports Surge on Higher Energy Costs,Negative
+2022-05-19,Wholesale Prices Rise at Record Pace,Negative
+2022-05-18,PM Kishida Announces Economic Support Package,Positive
+2022-05-17,Stock Markets Decline on Global Concerns,Negative
+2022-05-16,Tourism Sector Shows Signs of Recovery,Positive
+2022-05-15,Industrial Production Falls in March,Negative
+2022-05-14,Machine Tool Orders Decline,Negative
+2022-05-13,Household Spending Remains Under Pressure,Negative
+2022-05-12,BOJ Governor Kuroda Speaks on Monetary Policy,Neutral
+2022-05-11,Labor Cash Earnings Growth Remains Weak,Negative
+2022-05-10,Current Account Surplus Continues to Narrow,Negative
+2022-05-09,Small and Medium Enterprises Face Cost Pressures,Negative
+2022-05-08,Golden Week Holiday Ends with Domestic Travel Recovery,Positive
+2022-05-07,Service Sector Activity Improves Slightly,Positive
+2022-05-06,Golden Week Holiday Continues,Neutral
+2022-05-05,Children's Day Holiday Observed,Neutral
+2022-05-04,Midori no Hi Holiday Observed,Neutral
+2022-05-03,Constitution Memorial Day Holiday,Neutral
+2022-05-02,Stock Markets Closed for Golden Week,Neutral
+2022-05-01,May Day Observed Golden Week Begins,Neutral
+2022-04-30,Stock Markets End April with Losses,Negative
+2022-04-29,Showa Day Holiday Observed,Neutral
+2022-04-28,Consumer Price Index Rises 2.5 Percent,Negative
+2022-04-27,BOJ Maintains Ultra-Loose Policy Yen Weakens,Negative
+2022-04-26,Unemployment Rate Holds Steady at 2.6 Percent,Neutral
+2022-04-25,Manufacturing Activity Contracts,Negative
+2022-04-24,Retail Sales Growth Slows,Negative
+2022-04-23,Service Sector Shows Modest Recovery,Neutral
+2022-04-22,Trade Deficit Widens on Energy Costs,Negative
+2022-04-21,Industrial Production Declines,Negative
+2022-04-20,Machinery Orders Fall Sharply,Negative
+2022-04-19,Tokyo Area Inflation Rises to 1.3 Percent,Negative
+2022-04-18,BOJ Maintains Yield Curve Control,Neutral
+2022-04-17,Household Spending Remains Weak,Negative
+2022-04-16,Corporate Goods Price Index Surges,Negative
+2022-04-15,Wage Growth Lags Behind Inflation,Negative
+2022-04-14,Economy Watchers Survey Shows Cautious Mood,Neutral
+2022-04-13,Current Account Surplus Shrinks,Negative
+2022-04-12,Small Business Confidence Weakens,Negative
+2022-04-11,Stock Markets Decline on Global Uncertainty,Negative
+2022-04-10,Tourism Sector Awaits Border Reopening,Neutral
+2022-04-09,Housing Starts Increase in February,Positive
+2022-04-08,Leading Economic Index Declines,Negative
+2022-04-07,New Fiscal Year Begins with Economic Challenges,Negative
+2022-04-06,Coincident Economic Index Falls,Negative
+2022-04-05,Service Sector Activity Remains Subdued,Negative
+2022-04-04,Manufacturing Orders Decline,Negative
+2022-04-03,Consumer Confidence Weakens,Negative
+2022-04-02,Tankan Survey Shows Worsening Business Sentiment,Negative
+2022-04-01,New Fiscal Year Begins April 1,Neutral
+2022-03-31,Stock Markets End Fiscal Year with Modest Gains,Neutral
+2022-03-30,Consumer Prices Continue to Rise,Negative
+2022-03-29,Retail Sales Show Weak Growth,Negative
+2022-03-28,BOJ Governor Kuroda Reaffirms Policy Stance,Neutral
+2022-03-27,Yen Weakens to Multi-Year Lows,Negative
+2022-03-26,Industrial Production Revised Lower,Negative
+2022-03-25,Trade Deficit Widens on Energy Imports,Negative
+2022-03-24,Service Sector Recovery Remains Slow,Negative
+2022-03-23,Tokyo Core CPI Rises 0.8 Percent,Negative
+2022-03-22,Quasi-Emergency Measures Lifted Nationwide,Positive
+2022-03-21,Vernal Equinox Day Holiday Observed,Neutral
+2022-03-20,Stock Markets Decline on Ukraine War Concerns,Negative
+2022-03-19,Machinery Orders Fall Unexpectedly,Negative
+2022-03-18,BOJ Maintains Policy Rate at Minus 0.1 Percent,Neutral
+2022-03-17,Inflation Expectations Rise Among Households,Negative
+2022-03-16,Wage Growth Remains Weak,Negative
+2022-03-15,Economy Watchers Index Shows Improvement,Positive
+2022-03-14,Fukushima Earthquake Disrupts Supply Chains,Negative
+2022-03-13,Major Earthquake Strikes Fukushima Region,Negative
+2022-03-12,Current Account Surplus Continues to Decline,Negative
+2022-03-11,Eleventh Anniversary of Great East Japan Earthquake,Neutral
+2022-03-10,Household Spending Falls in January,Negative
+2022-03-09,GDP Revised to Show 0.4 Percent Contraction,Negative
+2022-03-08,Corporate Bankruptcies Remain Low,Positive
+2022-03-07,Leading Economic Indicators Decline,Negative
+2022-03-06,Service Sector Activity Remains Weak,Negative
+2022-03-05,Manufacturing Activity Shows Modest Growth,Neutral
+2022-03-04,Energy Costs Surge on Ukraine War,Negative
+2022-03-03,Retail Sales Decline in January,Negative
+2022-03-02,Vehicle Production Disrupted by Chip Shortage,Negative
+2022-03-01,Industrial Production Falls Sharply,Negative
+2022-02-28,Consumer Confidence Remains Subdued,Negative
+2022-02-27,Stock Markets Decline on Ukraine Crisis,Negative
+2022-02-26,Omicron Wave Continues to Impact Economy,Negative
+2022-02-25,Tokyo Core CPI Rises 0.5 Percent,Neutral
+2022-02-24,Russia Invasion of Ukraine Impacts Markets,Negative
+2022-02-23,Emperor's Birthday Holiday Observed,Neutral
+2022-02-22,BOJ Minutes Show Concern Over Recovery Pace,Negative
+2022-02-21,Trade Deficit Widens,Negative
+2022-02-20,Machinery Orders Increase Slightly,Positive
+2022-02-19,Wholesale Prices Rise Sharply,Negative
+2022-02-18,Service Sector Hit by Omicron Restrictions,Negative
+2022-02-17,BOJ Holds Ultra-Loose Monetary Policy,Neutral
+2022-02-16,GDP Contracts 0.4 Percent in Fourth Quarter,Negative
+2022-02-15,Household Spending Declines on Omicron,Negative
+2022-02-14,Machine Tool Orders Show Growth,Positive
+2022-02-13,Quasi-Emergency Extended in Multiple Prefectures,Negative
+2022-02-12,Corporate Goods Price Index Rises,Negative
+2022-02-11,National Foundation Day Holiday Observed,Neutral
+2022-02-10,Current Account Surplus Declines,Negative
+2022-02-09,Economy Watchers Survey Shows Pessimism,Negative
+2022-02-08,Lending Growth Remains Modest,Neutral
+2022-02-07,Leading Economic Index Falls,Negative
+2022-02-06,Omicron Variant Spreads Rapidly,Negative
+2022-02-05,Service Sector Activity Weakens,Negative
+2022-02-04,Wage Growth Remains Stagnant,Negative
+2022-02-03,BOJ Maintains Policy Amid Omicron Concerns,Neutral
+2022-02-02,Retail Sales Decline in December,Negative
+2022-02-01,Industrial Production Falls in December,Negative
+2022-01-31,Consumer Confidence Plunges on Omicron,Negative
+2022-01-30,Stock Markets End January with Losses,Negative
+2022-01-29,Tokyo Core CPI Rises 0.2 Percent,Neutral
+2022-01-28,Unemployment Rate Holds at 2.7 Percent,Neutral
+2022-01-27,Quasi-Emergency Declared in Additional Prefectures,Negative
+2022-01-26,Household Spending Shows Weak Growth,Negative
+2022-01-25,BOJ Maintains Ultra-Loose Policy,Neutral
+2022-01-24,Service Sector Activity Slows,Negative
+2022-01-23,Manufacturing Activity Remains Weak,Negative
+2022-01-22,Trade Deficit Widens Significantly,Negative
+2022-01-21,Quasi-Emergency Measures Expanded,Negative
+2022-01-20,Machinery Orders Decline,Negative
+2022-01-19,Wholesale Prices Rise at Record Pace,Negative
+2022-01-18,BOJ Governor Kuroda Addresses Economy,Neutral
+2022-01-17,Omicron Cases Surge Across Japan,Negative
+2022-01-16,Corporate Bankruptcies Remain Low,Positive
+2022-01-15,Economy Watchers Survey Shows Deterioration,Negative
+2022-01-14,Current Account Surplus Narrows,Negative
+2022-01-13,Quasi-Emergency Declared in Tokyo and Other Areas,Negative
+2022-01-12,Leading Economic Index Declines,Negative
+2022-01-11,Household Spending Rises in November,Positive
+2022-01-10,Coming of Age Day Holiday Observed,Neutral
+2022-01-09,Machine Tool Orders Increase,Positive
+2022-01-08,Omicron Variant Detected in Multiple Regions,Negative
+2022-01-07,Service Sector Shows Signs of Recovery,Positive
+2022-01-06,Manufacturing Activity Improves Slightly,Positive
+2022-01-05,Retail Sales Rebound in November,Positive
+2022-01-04,Stock Markets Rally to Start Year,Positive
+2022-01-03,New Year Holiday Observed,Neutral
+2022-01-02,Markets Closed for New Year Holiday,Neutral
+2022-01-01,New Year's Day Markets Closed,Neutral
+2021-12-31,Stock Markets End 2021 with Annual Gains,Positive
+2021-12-30,Year-End Trading Remains Quiet,Neutral
+2021-12-29,Industrial Production Shows Modest Growth,Positive
+2021-12-28,Consumer Confidence Improves Slightly,Positive
+2021-12-27,Retail Sales Strong During Year-End Shopping,Positive
+2021-12-26,Economic Activity Picks Up as Restrictions Ease,Positive
+2021-12-25,Holiday Shopping Season Shows Recovery,Positive
+2021-12-24,Tokyo Core CPI Remains Flat,Neutral
+2021-12-23,Tokyo Area Inflation Subdued,Neutral
+2021-12-22,Trade Balance Moves to Deficit,Negative
+2021-12-21,BOJ Maintains Ultra-Loose Policy,Neutral
+2021-12-20,Service Sector Recovery Continues,Positive
+2021-12-19,Machinery Orders Increase,Positive
+2021-12-18,Wholesale Prices Rise Sharply,Negative
+2021-12-17,Manufacturing Activity Improves,Positive
+2021-12-16,Economy Watchers Survey Shows Improvement,Positive
+2021-12-15,Current Account Surplus Declines,Negative
+2021-12-14,Household Spending Rebounds,Positive
+2021-12-13,Leading Economic Index Rises,Positive
+2021-12-12,Wage Growth Remains Weak,Negative
+2021-12-11,Corporate Bankruptcies at Low Levels,Positive
+2021-12-10,Service Sector Continues Recovery,Positive
+2021-12-09,GDP Revised to Show 1.8 Percent Growth in Q3,Positive
+2021-12-08,Machine Tool Orders Strong,Positive
+2021-12-07,Lending Growth Remains Modest,Neutral
+2021-12-06,Omicron Variant Detected in Japan,Negative
+2021-12-05,New Omicron Travel Restrictions Announced,Negative
+2021-12-04,Retail Sales Continue Recovery,Positive
+2021-12-03,Industrial Production Increases,Positive
+2021-12-02,Consumer Confidence Improves,Positive
+2021-12-01,Unemployment Rate Falls to 2.7 Percent,Positive
+2021-11-30,Stock Markets End November with Gains,Positive
+2021-11-29,Tokyo Core CPI Remains Flat,Neutral
+2021-11-28,Household Spending Rises in October,Positive
+2021-11-27,BOJ Minutes Show Cautious Optimism,Neutral
+2021-11-26,Trade Balance Deteriorates,Negative
+2021-11-25,Service Sector Shows Strong Recovery,Positive
+2021-11-24,Machinery Orders Increase,Positive
+2021-11-23,Labor Thanksgiving Day Holiday Observed,Neutral
+2021-11-22,Manufacturing Activity Remains Strong,Positive
+2021-11-21,Wholesale Prices Rise at Record Pace,Negative
+2021-11-20,Economy Watchers Survey Shows Improvement,Positive
+2021-11-19,Current Account Surplus Declines,Negative
+2021-11-18,GDP Contracts 0.8 Percent in Third Quarter,Negative
+2021-11-17,Leading Economic Index Rises,Positive
+2021-11-16,Household Spending Falls in September,Negative
+2021-11-15,Corporate Bankruptcies Remain Low,Positive
+2021-11-14,Wage Growth Remains Subdued,Negative
+2021-11-13,Machine Tool Orders Increase,Positive
+2021-11-12,Service Sector Recovery Accelerates,Positive
+2021-11-11,Lending Growth Remains Modest,Neutral
+2021-11-10,Retail Sales Rebound Strongly,Positive
+2021-11-09,Industrial Production Rises,Positive
+2021-11-08,Consumer Confidence Improves Significantly,Positive
+2021-11-07,Stock Markets Rally on Economic Reopening,Positive
+2021-11-06,Tokyo Area Inflation Remains Low,Neutral
+2021-11-05,Unemployment Rate Holds at 2.8 Percent,Neutral
+2021-11-04,Household Spending Shows Signs of Recovery,Positive
+2021-11-03,Culture Day Holiday Observed,Neutral
+2021-11-02,State of Emergency Lifted Nationwide,Positive
+2021-11-01,November Begins with Economic Optimism,Positive
+2021-10-31,Stock Markets End October with Strong Gains,Positive
+2021-10-30,Tokyo Core CPI Remains Flat,Neutral
+2021-10-29,BOJ Maintains Ultra-Loose Monetary Policy,Neutral
+2021-10-28,Trade Deficit Widens,Negative
+2021-10-27,Service Sector Begins Recovery,Positive
+2021-10-26,Machinery Orders Decline,Negative
+2021-10-25,Wholesale Prices Rise Sharply,Negative
+2021-10-24,Manufacturing Activity Improves,Positive
+2021-10-23,Economy Watchers Survey Shows Improvement,Positive
+2021-10-22,Current Account Surplus Narrows,Negative
+2021-10-21,Household Spending Remains Weak,Negative
+2021-10-20,Leading Economic Index Rises,Positive
+2021-10-19,Corporate Bankruptcies Remain Low,Positive
+2021-10-18,Wage Growth Remains Weak,Negative
+2021-10-17,Machine Tool Orders Increase,Positive
+2021-10-16,Service Sector Activity Remains Subdued,Negative
+2021-10-15,Lending Growth Modest,Neutral
+2021-10-14,Retail Sales Decline in August,Negative
+2021-10-13,Industrial Production Falls,Negative
+2021-10-12,Consumer Confidence Remains Weak,Negative
+2021-10-11,Stock Markets Consolidate Recent Gains,Neutral
+2021-10-10,Tokyo Area Inflation Remains Low,Neutral
+2021-10-09,Unemployment Rate Edges Up to 2.8 Percent,Negative
+2021-10-08,GDP Grows 1.9 Percent in Second Quarter,Positive
+2021-10-07,Household Spending Falls in July,Negative
+2021-10-06,State of Emergency Extended in Multiple Areas,Negative
+2021-10-05,BOJ Maintains Policy Amid Delta Wave,Neutral
+2021-10-04,LDP Leadership Election Held,Neutral
+2021-10-03,Kishida Fumio Elected New LDP President,Neutral
+2021-10-02,Prime Minister Suga Announces He Will Not Seek Reelection,Negative
+2021-10-01,Machinery Orders Increase,Positive
+2021-09-30,Stock Markets End September and Q3 with Losses,Negative
+2021-09-29,Tokyo Core CPI Falls 0.4 Percent,Negative
+2021-09-28,Trade Deficit Widens on Energy Costs,Negative
+2021-09-27,Service Sector Hit Hard by Emergency Measures,Negative
+2021-09-26,Wholesale Prices Rise at Record Pace,Negative
+2021-09-25,Manufacturing Activity Slows,Negative
+2021-09-24,Economy Watchers Survey Shows Pessimism,Negative
+2021-09-23,Autumnal Equinox Day Holiday Observed,Neutral
+2021-09-22,Current Account Surplus Declines,Negative
+2021-09-21,Household Spending Falls Sharply,Negative
+2021-09-20,Leading Economic Index Declines,Negative
+2021-09-19,Corporate Bankruptcies Increase,Negative
+2021-09-18,Wage Growth Remains Weak,Negative
+2021-09-17,Machine Tool Orders Decline,Negative
+2021-09-16,Service Sector Activity Remains Depressed,Negative
+2021-09-15,Lending Growth Slows,Negative
+2021-09-14,Retail Sales Decline in July,Negative
+2021-09-13,Industrial Production Falls Sharply,Negative
+2021-09-12,Consumer Confidence Plunges,Negative
+2021-09-11,Stock Markets Decline on Emergency Extension,Negative
+2021-09-10,Tokyo Area Inflation Remains Negative,Negative
+2021-09-09,State of Emergency Extended Until End of September,Negative
+2021-09-08,Unemployment Rate Holds at 2.8 Percent,Neutral
+2021-09-07,Household Spending Declines,Negative
+2021-09-06,GDP Revised to Show 1.9 Percent Growth,Positive
+2021-09-05,PM Suga Approval Rating Plunges to Record Low,Negative
+2021-09-04,Machinery Orders Decline,Negative
+2021-09-03,PM Suga Announces He Will Not Run for LDP Leadership,Negative
+2021-09-02,Wholesale Prices Rise Sharply,Negative
+2021-09-01,Manufacturing Activity Slows on Delta Variant,Negative
+2021-08-31,Consumer Confidence Falls to Lowest Since 2020,Negative
+2021-08-30,Stock Markets End August with Losses,Negative
+2021-08-29,Tokyo Core CPI Falls 0.4 Percent,Negative
+2021-08-28,Trade Surplus Narrows,Negative
+2021-08-27,BOJ Maintains Ultra-Loose Policy,Neutral
+2021-08-26,Service Sector Activity Remains Weak,Negative
+2021-08-25,Tokyo Paralympics Begin Under State of Emergency,Neutral
+2021-08-24,Machinery Orders Decline,Negative
+2021-08-23,Wholesale Prices Rise at Record Pace,Negative
+2021-08-22,Manufacturing Activity Slows,Negative
+2021-08-21,Economy Watchers Survey Shows Deterioration,Negative
+2021-08-20,Current Account Surplus Declines,Negative
+2021-08-19,Household Spending Falls in June,Negative
+2021-08-18,Leading Economic Index Declines,Negative
+2021-08-17,State of Emergency Expanded to More Prefectures,Negative
+2021-08-16,Corporate Bankruptcies Remain Elevated,Negative
+2021-08-15,Wage Growth Remains Weak,Negative
+2021-08-14,Machine Tool Orders Decline,Negative
+2021-08-13,Service Sector Hit by Emergency Restrictions,Negative
+2021-08-12,Lending Growth Slows,Negative
+2021-08-11,Mountain Day Holiday Observed,Neutral
+2021-08-10,Retail Sales Growth Slows,Negative
+2021-08-09,Tokyo Olympics Conclude,Neutral
+2021-08-08,Industrial Production Falls in June,Negative
+2021-08-07,Consumer Confidence Remains Weak,Negative
+2021-08-06,Stock Markets Decline on Delta Variant Concerns,Negative
+2021-08-05,Tokyo Area Inflation Remains Negative,Negative
+2021-08-04,Unemployment Rate Holds at 2.9 Percent,Neutral
+2021-08-03,Household Spending Declines in May,Negative
+2021-08-02,State of Emergency Extended and Expanded,Negative
+2021-08-01,Machinery Orders Decline,Negative
+2021-07-31,Stock Markets End July with Mixed Results,Neutral
+2021-07-30,Tokyo Core CPI Falls 0.2 Percent,Negative
+2021-07-29,Trade Surplus Narrows Significantly,Negative
+2021-07-28,BOJ Maintains Ultra-Loose Monetary Policy,Neutral
+2021-07-27,Service Sector Activity Remains Subdued,Negative
+2021-07-26,Wholesale Prices Rise Sharply,Negative
+2021-07-25,Manufacturing Activity Slows,Negative
+2021-07-24,Economy Watchers Survey Shows Weak Sentiment,Negative
+2021-07-23,Tokyo Olympics Opening Ceremony Held Without Spectators,Neutral
+2021-07-22,Marine Day Holiday Observed,Neutral
+2021-07-21,Current Account Surplus Declines,Negative
+2021-07-20,Household Spending Shows Modest Growth,Positive
+2021-07-19,Leading Economic Index Declines,Negative
+2021-07-18,GDP Growth Revised Higher for Q1,Positive
+2021-07-17,Corporate Bankruptcies Decline,Positive
+2021-07-16,Wage Growth Remains Weak,Negative
+2021-07-15,Machine Tool Orders Increase,Positive
+2021-07-14,Service Sector Activity Improves Slightly,Positive
+2021-07-13,Lending Growth Remains Modest,Neutral
+2021-07-12,State of Emergency Declared in Tokyo,Negative
+2021-07-11,Retail Sales Rebound in May,Positive
+2021-07-10,Industrial Production Rises in May,Positive
+2021-07-09,Consumer Confidence Improves,Positive
+2021-07-08,Stock Markets Consolidate Recent Gains,Neutral
+2021-07-07,Tokyo Area Inflation Remains Low,Neutral
+2021-07-06,Unemployment Rate Falls to 2.9 Percent,Positive
+2021-07-05,Household Spending Rebounds in April,Positive
+2021-07-04,Quasi-Emergency Extended in Tokyo,Negative
+2021-07-03,Machinery Orders Increase Strongly,Positive
+2021-07-02,Wholesale Prices Rise Sharply,Negative
+2021-07-01,Manufacturing Activity Improves,Positive
+2021-06-30,Stock Markets End Second Quarter with Gains,Positive
+2021-06-29,Tokyo Core CPI Falls 0.2 Percent,Negative
+2021-06-28,Trade Surplus Declines,Negative
+2021-06-27,BOJ Maintains Ultra-Loose Policy,Neutral
+2021-06-26,Service Sector Shows Signs of Recovery,Positive
+2021-06-25,Economy Watchers Survey Shows Improvement,Positive
+2021-06-24,Current Account Surplus Narrows,Negative
+2021-06-23,Household Spending Falls in April,Negative
+2021-06-22,Leading Economic Index Rises,Positive
+2021-06-21,State of Emergency Lifted in Most Areas,Positive
+2021-06-20,Corporate Bankruptcies Decline,Positive
+2021-06-19,Wage Growth Remains Weak,Negative
+2021-06-18,Machine Tool Orders Increase,Positive
+2021-06-17,Service Sector Activity Remains Weak,Negative
+2021-06-16,Lending Growth Remains Modest,Neutral
+2021-06-15,GDP Contracts 1.0 Percent in First Quarter,Negative
+2021-06-14,Retail Sales Decline in April,Negative
+2021-06-13,Industrial Production Falls in April,Negative
+2021-06-12,Consumer Confidence Remains Weak,Negative
+2021-06-11,Stock Markets Consolidate Recent Gains,Neutral
+2021-06-10,Tokyo Area Inflation Remains Low,Neutral
+2021-06-09,Machinery Orders Increase,Positive
+2021-06-08,Unemployment Rate Edges Up to 3.0 Percent,Negative
+2021-06-07,Household Spending Declines in March,Negative
+2021-06-06,Quasi-Emergency Extended in Multiple Prefectures,Negative
+2021-06-05,Wholesale Prices Rise Sharply,Negative
+2021-06-04,Manufacturing Activity Improves,Positive
+2021-06-03,Economy Watchers Survey Shows Weak Sentiment,Negative
+2021-06-02,Current Account Surplus Declines,Negative
+2021-06-01,Trade Surplus Narrows,Negative
+2021-05-31,Stock Markets End May with Gains,Positive
+2021-05-30,Tokyo Core CPI Falls 0.2 Percent,Negative
+2021-05-29,State of Emergency Extended Until June 20,Negative
+2021-05-28,BOJ Maintains Ultra-Loose Monetary Policy,Neutral
+2021-05-27,Service Sector Hit Hard by Emergency,Negative
+2021-05-26,Leading Economic Index Declines,Negative
+2021-05-25,Household Spending Falls Sharply,Negative
+2021-05-24,Corporate Bankruptcies Increase,Negative
+2021-05-23,Wage Growth Remains Weak,Negative
+2021-05-22,Machine Tool Orders Increase,Positive
+2021-05-21,Service Sector Activity Remains Depressed,Negative
+2021-05-20,Lending Growth Slows,Negative
+2021-05-19,GDP Contracts 1.3 Percent in First Quarter,Negative
+2021-05-18,Retail Sales Decline in March,Negative
+2021-05-17,Industrial Production Declines,Negative
+2021-05-16,Consumer Confidence Plunges,Negative
+2021-05-15,Stock Markets Decline on Emergency Extension,Negative
+2021-05-14,Tokyo Area Inflation Remains Negative,Negative
+2021-05-13,Machinery Orders Decline,Negative
+2021-05-12,Unemployment Rate Edges Up to 2.6 Percent,Negative
+2021-05-11,Household Spending Declines,Negative
+2021-05-10,State of Emergency Extended and Expanded,Negative
+2021-05-09,Wholesale Prices Rise Sharply,Negative
+2021-05-08,Manufacturing Activity Slows,Negative
+2021-05-07,Economy Watchers Survey Shows Sharp Deterioration,Negative
+2021-05-06,Current Account Surplus Declines,Negative
+2021-05-05,Children's Day Holiday Observed,Neutral
+2021-05-04,Midori no Hi Holiday Observed,Neutral
+2021-05-03,Constitution Memorial Day Holiday,Neutral
+2021-05-02,Trade Surplus Narrows,Negative
+2021-05-01,Stock Markets Decline on State of Emergency,Negative
+2021-04-30,Tokyo Core CPI Falls 0.6 Percent,Negative
+2021-04-29,Showa Day Holiday Observed,Neutral
+2021-04-28,BOJ Maintains Ultra-Loose Policy,Neutral
+2021-04-27,Service Sector Activity Remains Weak,Negative
+2021-04-26,Leading Economic Index Falls,Negative
+2021-04-25,State of Emergency Declared in Major Cities,Negative
+2021-04-24,Household Spending Rebounds in February,Positive
+2021-04-23,Corporate Bankruptcies Decline,Positive
+2021-04-22,Wage Growth Remains Weak,Negative
+2021-04-21,Machine Tool Orders Increase,Positive
+2021-04-20,Service Sector Shows Signs of Recovery,Positive
+2021-04-19,Lending Growth Remains Modest,Neutral
+2021-04-18,Retail Sales Rebound in February,Positive
+2021-04-17,Industrial Production Rises,Positive
+2021-04-16,Consumer Confidence Improves Slightly,Positive
+2021-04-15,GDP Grows 2.8 Percent in Fourth Quarter,Positive
+2021-04-14,Stock Markets Consolidate Recent Gains,Neutral
+2021-04-13,Tokyo Area Inflation Remains Low,Neutral
+2021-04-12,Machinery Orders Increase,Positive
+2021-04-11,Unemployment Rate Falls to 2.6 Percent,Positive
+2021-04-10,Household Spending Declines in January,Negative
+2021-04-09,Quasi-Emergency Declared in Three Prefectures,Negative
+2021-04-08,Wholesale Prices Rise Sharply,Negative
+2021-04-07,Manufacturing Activity Improves,Positive
+2021-04-06,Economy Watchers Survey Shows Improvement,Positive
+2021-04-05,Current Account Surplus Rises,Positive
+2021-04-04,Trade Surplus Increases,Positive
+2021-04-03,Stock Markets Rally to End Fiscal Year,Positive
+2021-04-02,Tokyo Core CPI Falls 0.5 Percent,Negative
+2021-04-01,New Fiscal Year Begins,Neutral
+2021-03-31,Stock Markets End Fiscal Year with Strong Gains,Positive
+2021-03-30,BOJ Tankan Survey Shows Improvement,Positive
+2021-03-29,Service Sector Recovery Continues,Positive
+2021-03-28,Leading Economic Index Rises,Positive
+2021-03-27,Household Spending Shows Modest Growth,Positive
+2021-03-26,Corporate Bankruptcies Decline,Positive
+2021-03-25,Wage Growth Remains Weak,Negative
+2021-03-24,Machine Tool Orders Increase,Positive
+2021-03-23,Service Sector Activity Improves,Positive
+2021-03-22,State of Emergency Lifted in Tokyo Area,Positive
+2021-03-21,Vernal Equinox Day Holiday Observed,Neutral
+2021-03-20,Lending Growth Remains Modest,Neutral
+2021-03-19,Retail Sales Rebound in January,Positive
+2021-03-18,Industrial Production Rises,Positive
+2021-03-17,Consumer Confidence Improves,Positive
+2021-03-16,Stock Markets Rally on Economic Recovery,Positive
+2021-03-15,Tokyo Area Inflation Remains Low,Neutral
+2021-03-14,Machinery Orders Increase Strongly,Positive
+2021-03-13,Unemployment Rate Edges Down to 2.9 Percent,Positive
+2021-03-12,Household Spending Declines in December,Negative
+2021-03-11,Tenth Anniversary of Great East Japan Earthquake,Neutral
+2021-03-10,Wholesale Prices Rise Sharply,Negative
+2021-03-09,GDP Revised to Show 2.8 Percent Growth,Positive
+2021-03-08,Manufacturing Activity Improves,Positive
+2021-03-07,State of Emergency Extended in Four Prefectures,Negative
+2021-03-06,Economy Watchers Survey Shows Improvement,Positive
+2021-03-05,Current Account Surplus Rises,Positive
+2021-03-04,Trade Surplus Increases,Positive
+2021-03-03,Stock Markets Rally on Vaccine Hopes,Positive
+2021-03-02,Tokyo Core CPI Falls 0.3 Percent,Negative
+2021-03-01,BOJ Maintains Ultra-Loose Monetary Policy,Neutral
+2021-02-28,Service Sector Shows Signs of Stabilization,Neutral
+2021-02-27,Leading Economic Index Rises,Positive
+2021-02-26,Household Spending Falls Sharply,Negative
+2021-02-25,Corporate Bankruptcies Increase,Negative
+2021-02-24,Wage Growth Remains Weak,Negative
+2021-02-23,Emperor's Birthday Holiday Observed,Neutral
+2021-02-22,Machine Tool Orders Decline,Negative
+2021-02-21,Service Sector Activity Remains Weak,Negative
+2021-02-20,Lending Growth Slows,Negative
+2021-02-19,Retail Sales Decline in December,Negative
+2021-02-18,Industrial Production Falls,Negative
+2021-02-17,Consumer Confidence Remains Weak,Negative
+2021-02-16,GDP Grows 3.0 Percent in Fourth Quarter,Positive
+2021-02-15,Stock Markets Consolidate Recent Gains,Neutral
+2021-02-14,Tokyo Area Inflation Remains Negative,Negative
+2021-02-13,Machinery Orders Increase,Positive
+2021-02-12,Unemployment Rate Edges Up to 2.9 Percent,Negative
+2021-02-11,National Foundation Day Holiday Observed,Neutral
+2021-02-10,Household Spending Declines in November,Negative
+2021-02-09,Wholesale Prices Fall,Negative
+2021-02-08,Manufacturing Activity Improves Slightly,Positive
+2021-02-07,State of Emergency Extended Until March 7,Negative
+2021-02-06,Economy Watchers Survey Shows Weak Sentiment,Negative
+2021-02-05,Current Account Surplus Declines,Negative
+2021-02-04,Trade Surplus Narrows,Negative
+2021-02-03,Stock Markets Decline on Emergency Extension,Negative
+2021-02-02,Tokyo Core CPI Falls 0.5 Percent,Negative
+2021-02-01,BOJ Maintains Ultra-Loose Policy,Neutral
+2021-01-31,Service Sector Hit Hard by State of Emergency,Negative
+2021-01-30,Leading Economic Index Declines,Negative
+2021-01-29,Household Spending Falls Sharply in December,Negative
+2021-01-28,Corporate Bankruptcies Increase,Negative
+2021-01-27,Wage Growth Remains Weak,Negative
+2021-01-26,Machine Tool Orders Decline,Negative
+2021-01-25,Service Sector Activity Remains Depressed,Negative
+2021-01-24,Lending Growth Slows,Negative
+2021-01-23,Retail Sales Decline in November,Negative
+2021-01-22,Industrial Production Falls,Negative
+2021-01-21,Consumer Confidence Plunges,Negative
+2021-01-20,Stock Markets Decline on State of Emergency,Negative
+2021-01-19,Tokyo Area Inflation Remains Negative,Negative
+2021-01-18,Machinery Orders Decline,Negative
+2021-01-17,Unemployment Rate Edges Up to 2.9 Percent,Negative
+2021-01-16,Household Spending Declines,Negative
+2021-01-15,Wholesale Prices Fall Sharply,Negative
+2021-01-14,State of Emergency Expanded to More Prefectures,Negative
+2021-01-13,Manufacturing Activity Improves Slightly,Positive
+2021-01-12,Economy Watchers Survey Shows Sharp Deterioration,Negative
+2021-01-11,Coming of Age Day Holiday Observed,Neutral
+2021-01-10,Current Account Surplus Declines,Negative
+2021-01-09,Trade Surplus Narrows Significantly,Negative
+2021-01-08,State of Emergency Declared in Tokyo Area,Negative
+2021-01-07,Stock Markets Decline on Emergency Declaration,Negative
+2021-01-06,Tokyo Core CPI Falls 0.9 Percent,Negative
+2021-01-05,BOJ Maintains Ultra-Loose Monetary Policy,Neutral
+2021-01-04,Service Sector Activity Remains Weak,Negative
+2021-01-03,New Year Holiday Observed,Neutral
+2021-01-02,Markets Closed for New Year Holiday,Neutral
+2021-01-01,New Year's Day Markets Closed,Neutral
+2020-12-31,Stock Markets End 2020 with Annual Gains,Positive
+2020-12-30,Year-End Trading Remains Quiet,Neutral
+2020-12-29,Leading Economic Index Rises,Positive
+2020-12-28,Household Spending Falls in October,Negative
+2020-12-27,Corporate Bankruptcies Increase,Negative
+2020-12-26,Wage Growth Remains Weak,Negative
+2020-12-25,Holiday Shopping Season Shows Recovery,Positive
+2020-12-24,Machine Tool Orders Increase,Positive
+2020-12-23,Service Sector Shows Signs of Recovery,Positive
+2020-12-22,Lending Growth Remains Modest,Neutral
+2020-12-21,Retail Sales Rebound in October,Positive
+2020-12-20,Industrial Production Rises,Positive
+2020-12-19,Consumer Confidence Improves,Positive
+2020-12-18,Stock Markets Rally on Economic Recovery,Positive
+2020-12-17,Tokyo Area Inflation Remains Low,Neutral
+2020-12-16,Machinery Orders Increase,Positive
+2020-12-15,Unemployment Rate Falls to 2.9 Percent,Positive
+2020-12-14,Household Spending Rebounds in September,Positive
+2020-12-13,Wholesale Prices Fall,Negative
+2020-12-12,Manufacturing Activity Improves,Positive
+2020-12-11,Economy Watchers Survey Shows Improvement,Positive
+2020-12-10,Current Account Surplus Rises,Positive
+2020-12-09,Trade Surplus Increases,Positive
+2020-12-08,Stock Markets Consolidate Recent Gains,Neutral
+2020-12-07,Tokyo Core CPI Falls 0.7 Percent,Negative
+2020-12-06,BOJ Maintains Ultra-Loose Policy,Neutral
+2020-12-05,Service Sector Recovery Continues,Positive
+2020-12-04,Leading Economic Index Rises,Positive
+2020-12-03,Household Spending Increases,Positive
+2020-12-02,Corporate Bankruptcies Remain Elevated,Negative
+2020-12-01,Wage Growth Remains Weak,Negative
+2020-11-30,Machine Tool Orders Decline,Negative
+2020-11-29,Service Sector Activity Improves,Positive
+2020-11-28,Lending Growth Remains Modest,Neutral
+2020-11-27,Retail Sales Rebound in September,Positive
+2020-11-26,Industrial Production Rises,Positive
+2020-11-25,Consumer Confidence Improves,Positive
+2020-11-24,Stock Markets Rally on Vaccine News,Positive
+2020-11-23,Labor Thanksgiving Day Holiday Observed,Neutral
+2020-11-22,Tokyo Area Inflation Remains Low,Neutral
+2020-11-21,Machinery Orders Increase,Positive
+2020-11-20,Unemployment Rate Falls to 3.0 Percent,Positive
+2020-11-19,Household Spending Rebounds in August,Positive
+2020-11-18,GDP Revised to Show 5.0 Percent Growth,Positive
+2020-11-17,Wholesale Prices Fall Sharply,Negative
+2020-11-16,Manufacturing Activity Improves,Positive
+2020-11-15,Economy Watchers Survey Shows Improvement,Positive
+2020-11-14,Current Account Surplus Rises,Positive
+2020-11-13,Trade Surplus Increases,Positive
+2020-11-12,Stock Markets Rally on Vaccine Progress,Positive
+2020-11-11,Tokyo Core CPI Falls 0.7 Percent,Negative
+2020-11-10,BOJ Maintains Ultra-Loose Monetary Policy,Neutral
+2020-11-09,Service Sector Shows Signs of Recovery,Positive
+2020-11-08,Leading Economic Index Rises,Positive
+2020-11-07,Household Spending Increases in July,Positive
+2020-11-06,Corporate Bankruptcies Remain Elevated,Negative
+2020-11-05,Wage Growth Remains Weak,Negative
+2020-11-04,Machine Tool Orders Decline,Negative
+2020-11-03,Culture Day Holiday Observed,Neutral
+2020-11-02,Service Sector Activity Improves,Positive
+2020-11-01,Lending Growth Remains Modest,Neutral
+2020-10-31,Stock Markets End October with Losses,Negative
+2020-10-30,Retail Sales Rebound Strongly,Positive
+2020-10-29,Industrial Production Rises,Positive
+2020-10-28,Consumer Confidence Improves,Positive
+2020-10-27,Stock Markets Decline on Global Concerns,Negative
+2020-10-26,Tokyo Area Inflation Remains Low,Neutral
+2020-10-25,Machinery Orders Increase,Positive
+2020-10-24,Unemployment Rate Falls to 3.0 Percent,Positive
+2020-10-23,Household Spending Rebounds in July,Positive
+2020-10-22,Wholesale Prices Fall,Negative
+2020-10-21,Manufacturing Activity Improves,Positive
+2020-10-20,Economy Watchers Survey Shows Improvement,Positive
+2020-10-19,Current Account Surplus Rises,Positive
+2020-10-18,Trade Surplus Increases,Positive
+2020-10-17,Stock Markets Rally on Economic Recovery,Positive
+2020-10-16,Tokyo Core CPI Falls 0.6 Percent,Negative
+2020-10-15,GDP Grows at Record 5.0 Percent Rate in Q2,Positive
+2020-10-14,BOJ Maintains Ultra-Loose Policy,Neutral
+2020-10-13,Service Sector Shows Signs of Recovery,Positive
+2020-10-12,Leading Economic Index Rises,Positive
+2020-10-11,Household Spending Increases in June,Positive
+2020-10-10,Corporate Bankruptcies Increase,Negative
+2020-10-09,Wage Growth Remains Weak,Negative
+2020-10-08,Machine Tool Orders Decline,Negative
+2020-10-07,Service Sector Activity Improves,Positive
+2020-10-06,Lending Growth Remains Modest,Neutral
+2020-10-05,Retail Sales Rebound in July,Positive
+2020-10-04,Industrial Production Rises,Positive
+2020-10-03,Consumer Confidence Improves,Positive
+2020-10-02,Stock Markets Rally on PM Suga Policies,Positive
+2020-10-01,BOJ Tankan Survey Shows Improvement,Positive
+2020-09-30,Stock Markets End September and Q3 with Gains,Positive
+2020-09-29,Tokyo Core CPI Falls 0.4 Percent,Negative
+2020-09-28,Unemployment Rate Falls to 3.0 Percent,Positive
+2020-09-27,Household Spending Rebounds in June,Positive
+2020-09-26,Wholesale Prices Fall Sharply,Negative
+2020-09-25,Manufacturing Activity Improves,Positive
+2020-09-24,Economy Watchers Survey Shows Improvement,Positive
+2020-09-23,Autumnal Equinox Day Holiday Observed,Neutral
+2020-09-22,Lending Growth Remains Modest,Neutral
+2020-09-21,Current Account Surplus Rises,Positive
+2020-09-20,Trade Surplus Increases,Positive
+2020-09-19,Stock Markets Rally on Economic Recovery,Positive
+2020-09-18,Tokyo Area Inflation Remains Low,Neutral
+2020-09-17,Machinery Orders Increase,Positive
+2020-09-16,Yoshihide Suga Elected as New Prime Minister,Neutral
+2020-09-15,Service Sector Shows Signs of Recovery,Positive
+2020-09-14,LDP Leadership Election Campaigns Begin,Neutral
+2020-09-13,Leading Economic Index Rises,Positive
+2020-09-12,Household Spending Increases in May,Positive
+2020-09-11,Corporate Bankruptcies Increase,Negative
+2020-09-10,Wage Growth Remains Weak,Negative
+2020-09-09,GDP Revised to Show 7.9 Percent Contraction,Negative
+2020-09-08,Machine Tool Orders Decline,Negative
+2020-09-07,Service Sector Activity Improves,Positive
+2020-09-06,BOJ Maintains Ultra-Loose Monetary Policy,Neutral
+2020-09-05,Retail Sales Rebound in June,Positive
+2020-09-04,Industrial Production Rises,Positive
+2020-09-03,Consumer Confidence Improves,Positive
+2020-09-02,Stock Markets Rally on Reopening,Positive
+2020-09-01,Tokyo Core CPI Falls 0.4 Percent,Negative
+2020-08-31,Stock Markets End August with Gains,Positive
+2020-08-30,Unemployment Rate Rises to 2.9 Percent,Negative
+2020-08-29,Household Spending Falls Sharply in May,Negative
+2020-08-28,PM Abe Announces Resignation Due to Health,Negative
+2020-08-27,Wholesale Prices Fall,Negative
+2020-08-26,Manufacturing Activity Improves Slightly,Positive
+2020-08-25,Economy Watchers Survey Shows Improvement,Positive
+2020-08-24,Lending Growth Remains Modest,Neutral
+2020-08-23,Current Account Surplus Narrows,Negative
+2020-08-22,Trade Deficit Widens,Negative
+2020-08-21,Stock Markets Consolidate Recent Gains,Neutral
+2020-08-20,Tokyo Area Inflation Remains Low,Neutral
+2020-08-19,Machinery Orders Decline,Negative
+2020-08-18,GDP Contracts at Record 7.8 Percent Rate in Q2,Negative
+2020-08-17,Service Sector Remains Depressed,Negative
+2020-08-16,BOJ Maintains Ultra-Loose Policy,Neutral
+2020-08-15,Leading Economic Index Rises,Positive
+2020-08-14,Household Spending Falls Sharply,Negative
+2020-08-13,Corporate Bankruptcies Increase,Negative
+2020-08-12,Wage Growth Remains Weak,Negative
+2020-08-11,Mountain Day Holiday Observed,Neutral
+2020-08-10,Machine Tool Orders Decline,Negative
+2020-08-09,Service Sector Activity Remains Weak,Negative
+2020-08-08,Lending Growth Slows,Negative
+2020-08-07,Retail Sales Rebound Slightly,Positive
+2020-08-06,Industrial Production Rises,Positive
+2020-08-05,Consumer Confidence Improves Slightly,Positive
+2020-08-04,Stock Markets Rally on Economic Reopening,Positive
+2020-08-03,Tokyo Core CPI Falls 0.3 Percent,Negative
+2020-08-02,Unemployment Rate Rises to 2.8 Percent,Negative
+2020-08-01,Household Spending Falls Sharply in April,Negative
+2020-07-31,Stock Markets End July with Gains,Positive
+2020-07-30,Wholesale Prices Fall Sharply,Negative
+2020-07-29,Manufacturing Activity Improves Slightly,Positive
+2020-07-28,Economy Watchers Survey Shows Improvement,Positive
+2020-07-27,Lending Growth Remains Modest,Neutral
+2020-07-26,Current Account Surplus Declines,Negative
+2020-07-25,Trade Deficit Widens,Negative
+2020-07-24,Sports Day Holiday Observed,Neutral
+2020-07-23,Marine Day Holiday Observed,Neutral
+2020-07-22,Stock Markets Consolidate Recent Gains,Neutral
+2020-07-21,Tokyo Area Inflation Remains Low,Neutral
+2020-07-20,Machinery Orders Decline Sharply,Negative
+2020-07-19,Leading Economic Index Rises,Positive
+2020-07-18,Household Spending Falls Sharply in March,Negative
+2020-07-17,Corporate Bankruptcies Increase,Negative
+2020-07-16,Wage Growth Remains Weak,Negative
+2020-07-15,Machine Tool Orders Decline,Negative
+2020-07-14,Service Sector Activity Remains Depressed,Negative
+2020-07-13,BOJ Maintains Ultra-Loose Monetary Policy,Neutral
+2020-07-12,Retail Sales Begin to Recover,Positive
+2020-07-11,Industrial Production Rises,Positive
+2020-07-10,Consumer Confidence Improves,Positive
+2020-07-09,Stock Markets Rally on Economic Reopening,Positive
+2020-07-08,Tokyo Core CPI Falls 0.1 Percent,Negative
+2020-07-07,GDP Revised to Show 2.2 Percent Contraction,Negative
+2020-07-06,Unemployment Rate Rises to 2.9 Percent,Negative
+2020-07-05,Household Spending Falls Sharply,Negative
+2020-07-04,Nationwide Rainfall Emergency Declared,Negative
+2020-07-03,Wholesale Prices Fall,Negative
+2020-07-02,Manufacturing Activity Contracts,Negative
+2020-07-01,BOJ Tankan Survey Shows Record Pessimism,Negative
+2020-06-30,Stock Markets End Second Quarter with Recovery,Positive
+2020-06-29,Economy Watchers Survey Shows Improvement,Positive
+2020-06-28,Lending Growth Remains Modest,Neutral
+2020-06-27,Current Account Surplus Declines,Negative
+2020-06-26,Trade Deficit Widens,Negative
+2020-06-25,Stock Markets Rally on Economic Reopening,Positive
+2020-06-24,Tokyo Area Inflation Remains Low,Neutral
+2020-06-23,Machinery Orders Decline Sharply,Negative
+2020-06-22,Leading Economic Index Falls,Negative
+2020-06-21,Household Spending Falls Record 16.2 Percent,Negative
+2020-06-20,Corporate Bankruptcies Increase,Negative
+2020-06-19,Wage Growth Remains Weak,Negative
+2020-06-18,Machine Tool Orders Decline,Negative
+2020-06-17,Service Sector Activity Remains Depressed,Negative
+2020-06-16,BOJ Expands Corporate Financing Program,Positive
+2020-06-15,Retail Sales Decline Sharply in April,Negative
+2020-06-14,Industrial Production Falls,Negative
+2020-06-13,Consumer Confidence Remains Weak,Negative
+2020-06-12,Stock Markets Rally on Economic Reopening,Positive
+2020-06-11,Tokyo Core CPI Remains Flat,Neutral
+2020-06-10,GDP Revised to Show 2.2 Percent Contraction,Negative
+2020-06-09,Unemployment Rate Rises to 2.6 Percent,Negative
+2020-06-08,Household Spending Falls Sharply,Negative
+2020-06-07,Wholesale Prices Fall Sharply,Negative
+2020-06-06,Manufacturing Activity Contracts Severely,Negative
+2020-06-05,Economy Watchers Survey Shows Slight Improvement,Positive
+2020-06-04,Lending Growth Remains Modest,Neutral
+2020-06-03,Current Account Surplus Declines,Negative
+2020-06-02,Trade Deficit Widens Significantly,Negative
+2020-06-01,Stock Markets Rally as Economy Reopens,Positive
+2020-05-31,Tokyo Area Inflation Remains Low,Neutral
+2020-05-30,Machinery Orders Decline Sharply,Negative
+2020-05-29,Leading Economic Index Falls Sharply,Negative
+2020-05-28,Household Spending Declines,Negative
+2020-05-27,Corporate Bankruptcies Increase,Negative
+2020-05-26,Wage Growth Remains Weak,Negative
+2020-05-25,State of Emergency Lifted Nationwide,Positive
+2020-05-24,Machine Tool Orders Decline Sharply,Negative
+2020-05-23,Service Sector Activity Collapses,Negative
+2020-05-22,BOJ Increases Corporate Bond Purchases,Positive
+2020-05-21,Retail Sales Decline Sharply,Negative
+2020-05-20,Industrial Production Falls Record 9.1 Percent,Negative
+2020-05-19,Consumer Confidence Plunges,Negative
+2020-05-18,GDP Contracts 3.4 Percent in First Quarter,Negative
+2020-05-17,Stock Markets Decline on Economic Concerns,Negative
+2020-05-16,Tokyo Core CPI Falls 0.2 Percent,Negative
+2020-05-15,Unemployment Rate Rises to 2.6 Percent,Negative
+2020-05-14,State of Emergency Extended in Eight Prefectures,Negative
+2020-05-13,Household Spending Falls Sharply,Negative
+2020-05-12,Wholesale Prices Fall,Negative
+2020-05-11,Manufacturing Activity Contracts Sharply,Negative
+2020-05-10,Economy Watchers Survey Plunges to Record Low,Negative
+2020-05-09,Lending Growth Remains Modest,Neutral
+2020-05-08,Current Account Surplus Declines,Negative
+2020-05-07,Trade Deficit Widens,Negative
+2020-05-06,Children's Day Holiday Observed,Neutral
+2020-05-05,Stock Markets Closed for Golden Week,Neutral
+2020-05-04,Midori no Hi Holiday Observed,Neutral
+2020-05-03,Constitution Memorial Day Holiday,Neutral
+2020-05-02,Machinery Orders Decline Sharply,Negative
+2020-05-01,State of Emergency Extended Until May 31,Negative
+2020-04-30,Leading Economic Index Falls,Negative
+2020-04-29,Showa Day Holiday Observed,Neutral
+2020-04-28,Household Spending Declines,Negative
+2020-04-27,Corporate Bankruptcies Increase,Negative
+2020-04-26,Wage Growth Remains Weak,Negative
+2020-04-25,Machine Tool Orders Decline,Negative
+2020-04-24,Service Sector Activity Collapses,Negative
+2020-04-23,BOJ Announces Unlimited Bond Purchases,Positive
+2020-04-22,Retail Sales Decline Sharply,Negative
+2020-04-21,Industrial Production Falls,Negative
+2020-04-20,Consumer Confidence Plunges to Record Low,Negative
+2020-04-19,Stock Markets Decline on Economic Concerns,Negative
+2020-04-18,Tokyo Area Inflation Remains Low,Neutral
+2020-04-17,Unemployment Rate Rises to 2.5 Percent,Negative
+2020-04-16,State of Emergency Expanded Nationwide,Negative
+2020-04-15,Household Spending Falls,Negative
+2020-04-14,Wholesale Prices Fall Sharply,Negative
+2020-04-13,Manufacturing Activity Contracts,Negative
+2020-04-12,Economy Watchers Survey Plunges,Negative
+2020-04-11,Lending Growth Remains Modest,Neutral
+2020-04-10,Current Account Surplus Declines,Negative
+2020-04-09,Trade Surplus Narrows,Negative
+2020-04-08,Stock Markets Decline on State of Emergency,Negative
+2020-04-07,State of Emergency Declared in Seven Prefectures,Negative
+2020-04-06,Tokyo Core CPI Rises 0.4 Percent,Neutral
+2020-04-05,Machinery Orders Decline,Negative
+2020-04-04,Leading Economic Index Falls,Negative
+2020-04-03,Household Spending Declines,Negative
+2020-04-02,Corporate Bankruptcies Increase,Negative
+2020-04-01,BOJ Tankan Survey Shows Sharp Deterioration,Negative
+2020-03-31,Stock Markets End Fiscal Year with Losses,Negative
+2020-03-30,Wage Growth Remains Weak,Negative
+2020-03-29,Machine Tool Orders Decline,Negative
+2020-03-28,Service Sector Activity Weakens,Negative
+2020-03-27,BOJ Expands ETF Purchases to 12 Trillion Yen,Positive
+2020-03-26,Retail Sales Decline,Negative
+2020-03-25,Industrial Production Falls,Negative
+2020-03-24,2020 Tokyo Olympics Postponed to 2021,Negative
+2020-03-23,Consumer Confidence Plunges,Negative
+2020-03-22,Stock Markets Decline on Global Pandemic,Negative
+2020-03-21,Vernal Equinox Day Holiday Observed,Neutral
+2020-03-20,Tokyo Area Inflation Remains Low,Neutral
+2020-03-19,Unemployment Rate Holds at 2.4 Percent,Neutral
+2020-03-18,Household Spending Declines,Negative
+2020-03-17,Wholesale Prices Fall,Negative
+2020-03-16,Manufacturing Activity Contracts,Negative
+2020-03-15,Economy Watchers Survey Shows Sharp Decline,Negative
+2020-03-14,Lending Growth Remains Modest,Neutral
+2020-03-13,Current Account Surplus Declines,Negative
+2020-03-12,Trade Deficit Widens,Negative
+2020-03-11,Ninth Anniversary of Great East Japan Earthquake,Neutral
+2020-03-10,Stock Markets Decline on Global Concerns,Negative
+2020-03-09,Tokyo Core CPI Rises 0.4 Percent,Neutral
+2020-03-08,Machinery Orders Decline,Negative
+2020-03-07,Leading Economic Index Falls,Negative
+2020-03-06,Household Spending Declines,Negative
+2020-03-05,Corporate Bankruptcies Increase,Negative
+2020-03-04,Wage Growth Remains Weak,Negative
+2020-03-03,Machine Tool Orders Decline,Negative
+2020-03-02,Service Sector Activity Weakens,Negative
+2020-03-01,Manufacturing Activity Contracts,Negative
+2020-02-29,Stock Markets Decline on Pandemic Fears,Negative
+2020-02-28,Retail Sales Decline,Negative
+2020-02-27,Industrial Production Falls,Negative
+2020-02-26,Consumer Confidence Falls on Virus Concerns,Negative
+2020-02-25,Stock Markets Decline Sharply on Pandemic,Negative
+2020-02-24,Tokyo Area Inflation Remains Low,Neutral
+2020-02-23,Emperor's Birthday Holiday Observed,Neutral
+2020-02-22,Unemployment Rate Holds at 2.4 Percent,Neutral
+2020-02-21,Household Spending Declines,Negative
+2020-02-20,Wholesale Prices Fall,Negative
+2020-02-19,Manufacturing Activity Contracts,Negative
+2020-02-18,BOJ Maintains Ultra-Loose Monetary Policy,Neutral
+2020-02-17,GDP Contracts 1.6 Percent in Fourth Quarter,Negative
+2020-02-16,Economy Watchers Survey Shows Decline,Negative
+2020-02-15,Lending Growth Remains Modest,Neutral
+2020-02-14,Current Account Surplus Declines,Negative
+2020-02-13,Trade Deficit Widens,Negative
+2020-02-12,Stock Markets Rally on Economic Data,Positive
+2020-02-11,National Foundation Day Holiday Observed,Neutral
+2020-02-10,Tokyo Core CPI Rises 0.7 Percent,Neutral
+2020-02-09,Machinery Orders Decline,Negative
+2020-02-08,Leading Economic Index Falls,Negative
+2020-02-07,Household Spending Declines,Negative
+2020-02-06,Corporate Bankruptcies Remain Elevated,Negative
+2020-02-05,Wage Growth Remains Weak,Negative
+2020-02-04,Machine Tool Orders Decline,Negative
+2020-02-03,Service Sector Activity Weakens,Negative
+2020-02-02,Manufacturing Activity Contracts,Negative
+2020-02-01,Stock Markets Decline on Virus Concerns,Negative
+2020-01-31,Tokyo Area Inflation Remains Low,Neutral
+2020-01-30,Retail Sales Decline in December,Negative
+2020-01-29,Industrial Production Falls,Negative
+2020-01-28,Consumer Confidence Falls on Virus Fears,Negative
+2020-01-27,Stock Markets Decline on Coronavirus Concerns,Negative
+2020-01-26,Unemployment Rate Rises to 2.2 Percent,Negative
+2020-01-25,Machinery Orders Decline,Negative
+2020-01-24,Household Spending Falls Sharply,Negative
+2020-01-23,Wholesale Prices Fall,Negative
+2020-01-22,BOJ Maintains Ultra-Loose Policy,Neutral
+2020-01-21,Manufacturing Activity Contracts,Negative
+2020-01-20,Economy Watchers Survey Shows Decline,Negative
+2020-01-19,Lending Growth Remains Modest,Neutral
+2020-01-18,Current Account Surplus Declines,Negative
+2020-01-17,Trade Deficit Widens on Weak Exports,Negative
+2020-01-16,Stock Markets Decline on Economic Concerns,Negative
+2020-01-15,Tokyo Core CPI Rises 0.7 Percent,Neutral
+2020-01-14,Leading Economic Index Falls,Negative
+2020-01-13,Coming of Age Day Holiday Observed,Neutral
+2020-01-12,Household Spending Declines Sharply,Negative
+2020-01-11,Corporate Bankruptcies Increase,Negative
+2020-01-10,Wage Growth Remains Weak,Negative
+2020-01-09,Machine Tool Orders Decline,Negative
+2020-01-08,Service Sector Activity Weakens,Negative
+2020-01-07,Manufacturing Activity Contracts,Negative
+2020-01-06,Stock Markets Rally to Start Year,Positive
+2020-01-05,Retail Sales Decline in November,Negative
+2020-01-04,Industrial Production Falls,Negative
+2020-01-03,New Year Holiday Observed,Neutral
+2020-01-02,Markets Closed for New Year Holiday,Neutral
+2020-01-01,New Year's Day Markets Closed,Neutral
