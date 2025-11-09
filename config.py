@@ -38,7 +38,7 @@ TEST_SPLIT = 0.15
 
 # RL hyperparameters
 LEARNING_RATE = 0.0003
-TRAINING_TIMESTEPS = 150000  # 50% increase for more learning
+TRAINING_TIMESTEPS = 100000  # 50% increase for more learning
 N_STEPS = 2048
 BATCH_SIZE = 64
 GAMMA = 0.99  # Discount factor for future rewards
