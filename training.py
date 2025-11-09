@@ -7,7 +7,7 @@ Episodes are quarterly (63 trading days)
 import pandas as pd
 import numpy as np
 from stable_baselines3 import PPO
-from stable_baselines3.common.vec_env import DummyVecEnv
+from stable_baselines3.common.vec_env import DummyVecEnv, VecNormalize
 from stable_baselines3.common.callbacks import EvalCallback, CheckpointCallback
 from stable_baselines3.common.monitor import Monitor
 import os
@@ -78,6 +78,10 @@ def train_agent(df_train, df_val):
     train_env = DummyVecEnv([make_env(df_train, i) for i in range(1)])
     val_env = DummyVecEnv([make_env(df_val, 0)])
 
+    # REMOVED VecNormalize - it was causing issues with reward understanding
+    # train_env = VecNormalize(train_env, norm_obs=True, norm_reward=True, clip_obs=10.0, clip_reward=10.0)
+    # val_env = VecNormalize(val_env, norm_obs=True, norm_reward=False, clip_obs=10.0, training=False)
+
     # Callbacks
     eval_callback = EvalCallback(
         val_env,
@@ -121,7 +125,7 @@ def train_agent(df_train, df_val):
         target_kl=None,
         tensorboard_log="./tensorboard_logs/",
         policy_kwargs=dict(
-            net_arch=[dict(pi=[256, 256], vf=[256, 256])]  # Larger network for complex trading
+            net_arch=[dict(pi=[256, 128], vf=[256, 128])]  # Simpler network: 256->128 (was 512->512->256, too complex)
         ),
         verbose=1,
         seed=42
@@ -151,7 +155,10 @@ def train_agent(df_train, df_val):
 
     # Save final model
     model.save(MODEL_SAVE_PATH)
-    print(f"\n✓ Training complete! Model saved to {MODEL_SAVE_PATH}")
+    print(f"\n[OK] Training complete! Model saved to {MODEL_SAVE_PATH}")
+
+    # No longer saving normalization stats (removed VecNormalize)
+    # train_env.save('models/vec_normalize.pkl')
 
     return model
 

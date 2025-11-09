@@ -5,6 +5,9 @@ Agent actions: continuous values [-1, 1] for position sizing
 Reward: mixed daily P&L + quarterly performance
 """
 
+import os
+os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
+
 import gymnasium as gym
 from gymnasium import spaces
 import numpy as np
@@ -13,7 +16,7 @@ from config import (
     INITIAL_BALANCE, INITIAL_USD_RATIO, INITIAL_JPY_RATIO,
     TRANSACTION_COST, EPISODE_LENGTH, DAILY_REWARD_WEIGHT,
     QUARTERLY_REWARD_WEIGHT, SHARPE_BONUS_WEIGHT,
-    ACTION_LOW, ACTION_HIGH
+    ACTION_LOW, ACTION_HIGH, OVERTRADING_PENALTY
 )
 
 class JPYUSDTradingEnv(gym.Env):
@@ -231,6 +234,10 @@ class JPYUSDTradingEnv(gym.Env):
 
         # Calculate reward (daily component)
         reward = daily_pnl * DAILY_REWARD_WEIGHT
+
+        # Penalize excessive trading to encourage strategic trades only
+        if abs(action) > 0.01:  # If agent traded this step
+            reward -= OVERTRADING_PENALTY
 
         # Check if episode is done
         done = self.current_step >= self.episode_length

@@ -20,16 +20,17 @@ REFERENCE_PAIRS = ['EURUSD', 'GBPUSD', 'AUDUSD']  # For context
 INITIAL_BALANCE = 10000
 INITIAL_USD_RATIO = 0.5  # Start with 50% USD
 INITIAL_JPY_RATIO = 0.5  # Start with 50% JPY
-TRANSACTION_COST = 0.0001  # 1 pip spread (0.01% per trade)
+TRANSACTION_COST = 0.0002  # 2 pip spread (0.02% per trade) - increased from 0.0001
+OVERTRADING_PENALTY = 1.0  # Drastically increased from 0.01 (was too weak)
 
 # Episode structure
 DAYS_PER_QUARTER = 63  # Trading days in a quarter (~252 trading days/year ÷ 4)
 EPISODE_LENGTH = DAYS_PER_QUARTER  # One quarter per episode
 
 # Reward structure
-DAILY_REWARD_WEIGHT = 0.01  # Small weight for daily P&L
-QUARTERLY_REWARD_WEIGHT = 100.0  # Large weight for quarterly performance
-SHARPE_BONUS_WEIGHT = 10.0  # Bonus for risk-adjusted returns
+DAILY_REWARD_WEIGHT = 1.0  # Increased from 0.1 - make daily P&L more important
+QUARTERLY_REWARD_WEIGHT = 100.0  # Reduced from 200.0 - was overshadowing daily signals
+SHARPE_BONUS_WEIGHT = 10.0  # Reduced from 20.0 - simplify reward
 
 # Data splits
 TRAIN_SPLIT = 0.7
@@ -37,14 +38,14 @@ VAL_SPLIT = 0.15
 TEST_SPLIT = 0.15
 
 # RL hyperparameters
-LEARNING_RATE = 0.0003
-TRAINING_TIMESTEPS = 100000  # Increased for continuous action space
+LEARNING_RATE = 0.0003  # Increased back to 0.0003 for faster learning
+TRAINING_TIMESTEPS = 300000  # Reduced from 500k - maybe overtrained
 N_STEPS = 2048
 BATCH_SIZE = 64
-GAMMA = 0.99  # Discount factor for future rewards
+GAMMA = 0.99  # Back to 0.99 (was 0.995)
 GAE_LAMBDA = 0.95  # Generalized Advantage Estimation
 CLIP_RANGE = 0.2  # PPO clipping parameter
-ENT_COEF = 0.01  # Entropy coefficient for exploration
+ENT_COEF = 0.001  # DRASTICALLY reduced from 0.05 - too much random exploration causing bad trades
 
 # Action space bounds
 ACTION_LOW = -1.0  # Maximum sell proportion

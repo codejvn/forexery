@@ -4,11 +4,14 @@ Compares agent performance vs buy-and-hold baseline
 Generates comprehensive metrics and visualizations
 """
 
+import os
+os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from stable_baselines3 import PPO
-import os
+from stable_baselines3.common.vec_env import DummyVecEnv, VecNormalize
 
 from trading_environment import JPYUSDTradingEnv
 from config import MODEL_SAVE_PATH, INITIAL_BALANCE, INITIAL_USD_RATIO, EPISODE_LENGTH
@@ -290,6 +293,9 @@ def main():
     # Create test environment
     print("\nCreating test environment...")
     env = JPYUSDTradingEnv(df_test, episode_length=EPISODE_LENGTH)
+
+    # No longer using VecNormalize (removed for simplicity)
+    # vec_env = DummyVecEnv([lambda: env])
 
     # Evaluate agent
     agent_results = evaluate_agent(model, env)
